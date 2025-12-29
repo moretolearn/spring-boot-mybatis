@@ -1,6 +1,8 @@
-package com.moretolearn;
+package com.moretolearn.mapper;
 
 import org.apache.ibatis.annotations.*;
+
+import com.moretolearn.entity.Employee;
 
 import java.util.List;
 
